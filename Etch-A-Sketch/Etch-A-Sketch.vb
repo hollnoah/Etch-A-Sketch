@@ -21,7 +21,7 @@ Public Class EtchASketch
         Return _penWidth
     End Function
 
-    'draw line
+    'Draw line
     Sub DrawWithMouse(oldX As Integer, oldY As Integer, newX As Integer, newY As Integer)
         Dim g As Graphics = DisplayPictureBox.CreateGraphics()
         Dim pen As New Pen(ForeGroundColor(), PenWidth())
