@@ -2,7 +2,7 @@
 'RCET 2265
 'Spring 2025
 'Etch-A-Sketch
-'
+'https://github.com/hollnoah/Etch-A-Sketch.git
 
 Option Strict On
 Option Explicit On
